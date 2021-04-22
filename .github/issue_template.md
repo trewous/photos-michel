@@ -1,7 +1,7 @@
 ## Checklist de Issue
 
-- [] Ler a guia
-- [] Testar nos browsers
+- [ ] Ler a guia
+- [ ] Testar nos browsers
 
 ## Descrição
 
